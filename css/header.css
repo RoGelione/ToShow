@@ -1,0 +1,68 @@
+#h-huaji li{
+	float: left;
+	position: relative;	
+}
+#h-huaji .huaji {
+	transform:rotateY(720deg);
+	transition:all 1s linear 0s
+}
+#huaji1
+{
+	left: 16px;
+	top: 106px;
+}
+#huaji2
+{
+	left: 65px;
+	top: 26px;
+}
+#huaji3
+{
+	left: 150px;
+	top: 116px;
+}
+#huaji4
+{
+	left: 296px;
+	top: 36px;
+}
+#huaji5
+{
+	left:409px;
+	top: 35px;
+}
+#huaji6
+{
+	left: 480px;
+	top: 105px;
+}
+#huaji7
+{
+	left: 650px;
+	top: 26px;
+}
+#huaji8
+{
+	left: 776px;
+	top: 136px;
+}
+#huaji9
+{
+	left: 846px;
+	top: 72px;
+}
+#huaji10
+{
+	left: 905px;
+	top: 105px;
+}
+#huaji11
+{
+	left:945px;
+	top: 9px;
+}
+#huaji12
+{
+	left: 1039x;
+	top: 105px;
+}

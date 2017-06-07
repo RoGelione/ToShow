@@ -1,0 +1,67 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+*{	
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+}
+
+#four{	
+	width: 100%;
+	position: relative;
+	height: 100%;
+	z-index:-1;
+}
+.p-list{
+	width: 400%;
+	margin-left:0%;
+}
+#list{	
+	
+	width: 100%;
+	float: left;
+	position: relative;
+	top:-40px ;
+	opacity:0.6;
+	background: url(../img/background.png);
+	z-index:999;
+}
+.p-list li{
+	float: left;
+}
+
+.slider-bar{
+
+}
+.slider-bar li{
+	
+	border-radius: 20px;
+	position: relative;
+	left: 40%;
+	cursor: pointer;
+	background: white;
+	float: left;
+	width: 10px;
+	height: 6px;
+}
+.l-top{
+	width: 100%;
+	height:25px;
+	float: left;
+	text-align: center;
+	
+}
+.l-top span{
+	color: white;
+}
+.l-bottom{
+	width: 100%;
+	float: left;
+	height:15px;
+}
+#list .open {
+	background: pink;
+	width: 20px;
+}
